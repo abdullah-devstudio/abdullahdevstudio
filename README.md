@@ -28,7 +28,7 @@
 
 <br/>
 
-## `</>` About Me
+##  About Me
 
 I'm a Frontend Developer focused on building clean, responsive, and reliable web interfaces. I work primarily with **HTML, CSS, and JavaScript**, and use **Firebase** for authentication, real-time data, and hosting. My focus is on writing maintainable code and delivering products that hold up in production, not just in a demo.
 
@@ -44,7 +44,7 @@ const developer = {
 
 <br/>
 
-## `{ }` Skills
+##  Skills
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,firebase&theme=dark" alt="HTML, CSS, JavaScript, Firebase" />
@@ -77,7 +77,7 @@ const developer = {
 
 <br/>
 
-## `>_` Featured Project
+##  Featured Project
 
 <table>
   <tr>
@@ -103,7 +103,7 @@ const developer = {
 
 <br/>
 
-## `#` GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-devstudio&show_icons=true&theme=dark&bg_color=0F172A&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB&border_color=1F2937" alt="GitHub Stats" height="165" />
