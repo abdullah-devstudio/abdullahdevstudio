@@ -112,7 +112,7 @@ const developer = {
 
 <br/>
 
-## `@` Contact
+## Contact
 
 <div align="center">
 
