@@ -2,29 +2,29 @@
 <p align="center">
   <img src="./banner.png"/>
 </p>
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">💻 Frontend Developer | Building Modern Web Experiences</h3>
+<h1 align="center">Hi , I'm Abdullah</h1>
+<h3 align="center"> Frontend Developer | Building Modern Web Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Frontend+Developer;JavaScript+Learner;Building+Cool+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Frontend+Developer;JavaScript+Learner;Building+Cool+Projects;Always+Learning" />
 </p>
 
 ---
 
 <!-- ABOUT -->
 
-## 🧠 About Me
+##  About Me
 
-✨ Passionate Frontend Developer from Pakistan 🇵🇰
-🚀 I build modern, responsive & user-friendly websites
-📚 Currently learning advanced JavaScript & real-world development
-🎯 Goal: Become a professional developer & freelancer
+ Passionate Frontend Developer from Pakistan .
+ I build modern, responsive & user-friendly websites
+ Currently learning advanced JavaScript & real-world development
+ Goal: Become a professional developer & freelancer
 
 ---
 
 <!-- SKILLS -->
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github" />
@@ -34,12 +34,12 @@
 
 <!-- PROJECTS -->
 
-## 📂 Featured Projects
+##  Featured Projects
 
-🚀 **Career Pilot Website**
+ **Career Pilot Website**
 A modern multi-page website with chatbot integration
 
-✨ Features:
+ Features:
 
 * Responsive Design
 * Clean UI
@@ -50,7 +50,7 @@ A modern multi-page website with chatbot integration
 
 <!-- STATS -->
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-devstudio&show_icons=true&theme=dark&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB&bg_color=0F172A" />
@@ -64,13 +64,16 @@ A modern multi-page website with chatbot integration
 
 <!-- CONTACT -->
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/abdullah-devstudio">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" />
   </a>
   <a href="mailto:theabdullahdevstudio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullahdevstudio">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" />
   </a>
 </p>
@@ -80,5 +83,5 @@ A modern multi-page website with chatbot integration
 <!-- FOOTER -->
 
 <p align="center">
-  ⭐ Keep Learning • Keep Building • Stay Consistent 🚀
+   Keep Learning • Keep Building • Stay Consistent 
 </p>
