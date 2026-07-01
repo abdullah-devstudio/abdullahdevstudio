@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src=".banner.png" alt="Abdullah Dev Studio banner" width="100%" />
+<img src="./banner.png" alt="Abdullah Dev Studio banner" width="100%" />
 
 <br/>
 
-<img src=".logo.png" width="72" alt="Abdullah Dev Studio logo" />
+<img src="./logo.png" width="72" alt="Abdullah Dev Studio logo" />
 
 # Muhammad Abdullah Khan
 
